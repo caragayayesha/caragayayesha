@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi there, I'm Ayesha! 👋 ✨
 
-<!--
-**caragayayesha/caragayayesha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 UI/UX Designer & 💻 Aspiring Developer
 
-Here are some ideas to get you started:
+🌸 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ┌──────────────────────────────────────────────────────────────┐
+  │                                                              │
+  │   🎓 2nd Year Student exploring tech & design                │
+  │   🎨 UI/UX Design Enthusiast crafting visual experiences     │
+  │   💻 Currently building projects with Python & Web Tech     │
+  │   🚀 Passionate about user-centric design & frontend dev      │
+  │                                                              │
+  └──────────────────────────────────────────────────────────────┘
+
+
+💬 Ask me about UI/UX wireframing, prototyping, and layout design
+
+📫 How to reach me: caragayayesha6@gmail.com
+
+⚡ Fun Fact: I love combining clean code with aesthetically pleasing interfaces!
